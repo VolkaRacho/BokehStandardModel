@@ -1,6 +1,8 @@
 # An Interactive Standard Model of Particle Physics using Bokeh
 
 This repository contains an example of an interactive visualization of the standard model of particle physics created with Bokeh.
+You can test it on [nbviewer](https://nbviewer.jupyter.org/github/VolKaracho/BokehStandardModel/blob/master/standardmodel.ipynb).
+Two examplary images can be seen below.
 
 ![standard model of particle physics](images/standardmodel.png)
 
